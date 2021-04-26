@@ -1,1 +1,1 @@
-# My-Past-Projects
+# Simple customer record keeping CLI app
